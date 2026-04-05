@@ -1,0 +1,20 @@
+# ninja log v6
+17	4528	7858866325058946	A9_autogen/timestamp	72055ed6e30aca78
+17	4528	7858866325058946	A9_autogen/mocs_compilation.cpp	72055ed6e30aca78
+17	4528	7858866325058946	C:/Informatica/OOP/a10-HabanAdela-1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/A9_autogen/timestamp	72055ed6e30aca78
+17	4528	7858866325058946	C:/Informatica/OOP/a10-HabanAdela-1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/A9_autogen/mocs_compilation.cpp	72055ed6e30aca78
+4610	6098	7858866327396962	CMakeFiles/A9.dir/Utils.cpp.obj	bcb6d50be8419acf
+4571	9123	7858866327006614	CMakeFiles/A9.dir/HtmlRepo.cpp.obj	e923d1a28028c8ac
+4564	9142	7858866326936632	CMakeFiles/A9.dir/CSVRepo.cpp.obj	b9c544dce4f4855c
+4586	9226	7858866327166709	CMakeFiles/A9.dir/Repository.cpp.obj	40f9e163d7cc8499
+4578	9354	7858866327076730	CMakeFiles/A9.dir/RepoFile.cpp.obj	e2806a300da63b6d
+4602	9517	7858866327316876	CMakeFiles/A9.dir/UI.cpp.obj	14608bfc7668cc4f
+4594	9787	7858866327236799	CMakeFiles/A9.dir/Service.cpp.obj	6f4b56a0075b3f8b
+4551	13302	7858866326816511	CMakeFiles/A9.dir/main.cpp.obj	91131ea7d6516aa9
+4642	13735	7858866327727654	CMakeFiles/A9.dir/adoptiontable.cpp.obj	fb351eb23e6ec84b
+4558	13938	7858866326876593	CMakeFiles/A9.dir/mainwindow.cpp.obj	9c1b3262cc0a8a51
+4618	14071	7858866327477037	CMakeFiles/A9.dir/choosewindow.cpp.obj	887630a36a5cb0b8
+4543	14218	7858866326736555	CMakeFiles/A9.dir/A9_autogen/mocs_compilation.cpp.obj	4d90f39536227665
+4626	14935	7858866327552277	CMakeFiles/A9.dir/adminwindow.cpp.obj	c0b7b92fd8fc98f8
+4634	15036	7858866327637581	CMakeFiles/A9.dir/userwindow.cpp.obj	6ce9bb0c094a2015
+15037	16003	7858866431664827	A9.exe	a9eb95693e80552

@@ -1,0 +1,6 @@
+german shepherd,Roua,0,https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11180014/202105German-Shepherd-1358309706-scaled-1.jpg
+beagle,Tara,3,https://www.zooplus.ro/ghid/wp-content/uploads/2021/07/beagle-pui.webp
+labrador,Faith,5,https://www.toateanimalele.ro/wp-content/uploads/2025/02/angel-luciano-latyezyw88c-unsplash-1170x570.jpg
+golden retriever,Amon,3,https://cdn.pixabay.com/photo/2019/04/17/20/18/golden-retriever-4135265_1280.jpg
+cane corso,Kara,5,https://fera.ro/images/companies/1/dog-428022_1920.jpg?1594894790215
+asd,a,10,sa
